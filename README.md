@@ -1,6 +1,7 @@
 # To-Do List Application
 
-This is a simple To-Do List application built with React. It allows users to add, edit, delete, and mark tasks as completed. The application uses local storage to persist tasks across browser sessions.
+This is a simple To-Do List application built with React. It allows users to add, edit, delete, and mark tasks as completed. 
+The application uses local storage to persist tasks across browser sessions.
 
 ## Features
 
@@ -15,6 +16,8 @@ This is a simple To-Do List application built with React. It allows users to add
 2. npm i
 3. npm run dev
 
+**Deployed Application Link**:
+https://astonishing-pastelito-da4440.netlify.app
 
-
+**Screenshot**:
 ![todo-list](https://github.com/user-attachments/assets/fb4b703a-0d25-439e-b6e6-5c7d9180c30a)
