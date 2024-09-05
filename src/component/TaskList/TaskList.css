@@ -1,0 +1,32 @@
+ol{
+    list-style: none;
+   width: 100%;
+
+
+ 
+}
+ol li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ padding: 10px;
+ border: 1px solid #fff;
+ color: #fff;
+ border-radius: 5px;
+ margin-bottom: 10px;
+}
+.btn button{
+border: none;
+background-color: transparent;
+
+margin-left: 10px;
+}
+.btn button:nth-child(1){
+    color: green;
+}
+.btn button:nth-child(2){
+color: blue;
+}
+.btn button:nth-child(3){
+    color: red;
+}
